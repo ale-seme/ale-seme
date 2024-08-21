@@ -11,4 +11,4 @@ About me:
 - 📻 I’m currently learning the principles of Embedded Software Engineering with Arduino and a course about microcontrollers
 - 🔋 I'm currently learning the principles of Electronics with a course on PCB design
 - 🧠 I have a background in psychology and worked in HR roles
-- 🕹️ Fun fact: Thought a microcontroller was a tiny joystick for mini-games. Turns out, it’s much more!
+- 🕹️ Fun fact: Thought a microcontroller was a tiny joystick for mini-games.
