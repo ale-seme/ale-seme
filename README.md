@@ -6,7 +6,7 @@
 -->
 About me:
 
-- 📚 Software engigneer student at Codam Coding College in Amsterdam.
+- 📚 Software engigneering student at Codam Coding College in Amsterdam.
 - 🔭 I’m currently working on a game written in C using raycasting as a project at Codam
 - 📻 I’m currently learning the principles of Embedded Software Engineering with Arduino and a course about microcontrollers
 - 🔋 I'm currently learning the principles of Electronics with a course on PCB design
