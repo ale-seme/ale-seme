@@ -7,6 +7,6 @@
 About me:
 
 - 📚 Software engineering student at Codam Coding College in Amsterdam.
-- 🔭 I’m currently working on a game written in C using raycasting as a project at Codam.
-- 📻 I’m currently learning the principles of Embedded Software Engineering with Arduino.
+- 🔭 I’m currently working on some projects to learn the fundamentals of c++11.
+- 📻 I’m currently learning the principles of Embedded Software Engineering with Arduino in C and C++.
 - 🧠 I have a background in psychology and worked in HR roles.
