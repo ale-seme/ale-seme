@@ -8,5 +8,4 @@ About me:
 
 - 📚 Software engineering student at Codam Coding College in Amsterdam.
 - 💼 Currently working as a Mobile Developer Intern on the TomTom Android app, using Kotlin.
-- ⚙️ Curious about embedded systems, especially projects in C and C++.
 - 🧠 I have a background in psychology and worked in HR roles.
