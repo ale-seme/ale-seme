@@ -7,6 +7,6 @@
 About me:
 
 - 📚 Software engineering student at Codam Coding College in Amsterdam.
-- 🔭 I’m currently working on some projects to learn the fundamentals of c++11.
-- 📻 I’m currently learning the principles of Embedded Software Engineering with Arduino in C and C++.
+- 💼 Currently working as a Mobile Developer Intern on the TomTom Android app, using Kotlin.
+- ⚙️ Curious about embedded systems, especially projects in C and C++.
 - 🧠 I have a background in psychology and worked in HR roles.
